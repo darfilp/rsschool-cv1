@@ -1,6 +1,6 @@
 # CV for RS School
 ## Filippova Darya
-![My photo](https://downloader.disk.yandex.ru/preview/2c8d7a82868e6c0420728600eebd03c4e5dda2ebb023edefb00c84158ace84cb/60f0acb4/klQELDdfbmseUynGWueJoXkBXSgmVDirB80eqe2ImxR05qZpi7URLBSY_bGdbATAb4XXaaNPd_myTZpln4XvVA%3D%3D?uid=0&filename=un-1UI80bc0.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=128x128)
+![My photo](https://raw.githubusercontent.com/darfilp/rsschool-cv/gh-pages/322ee.jpg)
 ### Contacts 
 #### Social network
 * [Vkontakte](https://vk.com/id_darfil)
