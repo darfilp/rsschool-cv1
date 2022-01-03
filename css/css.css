@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+
+}
+
+
+.information {
+    display: flex;
+}
+
+
+.information-about-me {
+    padding: 50px;
+}
+
+.photo {
+    margin: 30px 10px 0 0;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 0;
+}
+
+.info {
+}
+
+.education{
+    padding: 0 0 0 50px;
+
+}
+
+.cont {
+    padding: 0 0 0 50px;
+}
+
+.container-1 {
+    display: flex;
+}
+
+.social {
+    flex:1;
+}
+
+.phone {
+    flex:1;
+}
+
+.email {
+    flex:1;
+}
+
+.container-2{
+    padding: 0 0 0 50px;
+}
+
+.container-3 {
+ display: flex;
+    padding: 0 0 0 50px;
+}
+
+.skills {
+    flex:1;
+}
+
+.english {
+    flex:1;
+}
+
+pre {
+    background-color: #ededed;
+}
+
+.footer-logo {
+    text-align: right;
+}
+
+.year {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
